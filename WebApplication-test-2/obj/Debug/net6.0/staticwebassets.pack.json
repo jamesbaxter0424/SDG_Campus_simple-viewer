@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\james\\Desktop\\SDG專案\\SDG_環境搭建\\WebApplication-test-2\\wwwroot\\extensions\\BaseExtension.js",
+      "PackagePath": "staticwebassets\\extensions\\BaseExtension.js"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\SDG專案\\SDG_環境搭建\\WebApplication-test-2\\wwwroot\\extensions\\DataGridExtension.js",
+      "PackagePath": "staticwebassets\\extensions\\DataGridExtension.js"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\SDG專案\\SDG_環境搭建\\WebApplication-test-2\\wwwroot\\extensions\\DataGridPanel.js",
+      "PackagePath": "staticwebassets\\extensions\\DataGridPanel.js"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\SDG專案\\SDG_環境搭建\\WebApplication-test-2\\wwwroot\\extensions\\HistogramExtension.js",
+      "PackagePath": "staticwebassets\\extensions\\HistogramExtension.js"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\SDG專案\\SDG_環境搭建\\WebApplication-test-2\\wwwroot\\extensions\\HistogramPanel.js",
+      "PackagePath": "staticwebassets\\extensions\\HistogramPanel.js"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\SDG專案\\SDG_環境搭建\\WebApplication-test-2\\wwwroot\\extensions\\LoggerExtension.js",
+      "PackagePath": "staticwebassets\\extensions\\LoggerExtension.js"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\SDG專案\\SDG_環境搭建\\WebApplication-test-2\\wwwroot\\extensions\\SummaryExtension.js",
+      "PackagePath": "staticwebassets\\extensions\\SummaryExtension.js"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\SDG專案\\SDG_環境搭建\\WebApplication-test-2\\wwwroot\\extensions\\SummaryPanel.js",
+      "PackagePath": "staticwebassets\\extensions\\SummaryPanel.js"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\SDG專案\\SDG_環境搭建\\WebApplication-test-2\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\SDG專案\\SDG_環境搭建\\WebApplication-test-2\\wwwroot\\main.css",
+      "PackagePath": "staticwebassets\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\SDG專案\\SDG_環境搭建\\WebApplication-test-2\\wwwroot\\main.js",
+      "PackagePath": "staticwebassets\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\SDG專案\\SDG_環境搭建\\WebApplication-test-2\\wwwroot\\viewer.js",
+      "PackagePath": "staticwebassets\\viewer.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication-test-2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication-test-2.props",
+      "PackagePath": "build\\WebApplication-test-2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication-test-2.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication-test-2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication-test-2.props",
+      "PackagePath": "buildTransitive\\WebApplication-test-2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
